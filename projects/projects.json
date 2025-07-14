@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "Personal Portfolio",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Student Database Website",
+    "desc": "This website is designed for managing student data. It is developed using Angular for the frontend, Node.js for the backend, and MySQL as the database.",
+    "image": "Student Database",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
